@@ -1,0 +1,15 @@
+
+h1{
+    color:#F0A8D0;
+font-family: "Rubik Broken Fax", system-ui;
+}
+body{color: #FFC6C6;
+background-color: #250a28;
+}
+img {
+    width: 300px;
+}
+p, a {
+    font-family: "Tektur", sans-serif;
+}
+a{color: #FF7777;}
